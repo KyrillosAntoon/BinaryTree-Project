@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="TreeNode.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
+    <ClCompile Include="BinaryTreeDemo.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{BAA95040-48E9-4D19-819C-7659464974D7}</ProjectGuid>
@@ -137,15 +146,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\BinaryTree.h" />
-    <ClInclude Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\Game.h" />
-    <ClInclude Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\TreeNode.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\BinaryTree.cpp" />
-    <ClCompile Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\BinaryTreeDemo.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

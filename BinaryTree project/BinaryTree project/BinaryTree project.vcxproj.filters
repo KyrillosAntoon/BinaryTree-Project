@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\BinaryTree.h">
+    <ClInclude Include="BinaryTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\Game.h">
+    <ClInclude Include="Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\TreeNode.h">
+    <ClInclude Include="TreeNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\BinaryTree.cpp">
+    <ClCompile Include="BinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\College Stuff\C++ 2542 2nd Go\Week 9\Kyrillos Antoon Binary Tree Assignment\BinaryTreeDemo\BinaryTreeDemo\BinaryTreeDemo.cpp">
+    <ClCompile Include="BinaryTreeDemo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
